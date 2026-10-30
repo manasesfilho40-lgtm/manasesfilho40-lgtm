@@ -1,21 +1,13 @@
-# Olá, eu sou o Manases Filho 👋
+# Manases Filho
 
-Desenvolvedor web focado em **sites que fazem negócios locais venderem mais** — catálogo, orçamento e agendamento direto no WhatsApp, com carregamento rápido e design que passa confiança.
+Dev web. Faço site pra negócio local — o tipo que gera orçamento e agendamento no WhatsApp, não só visita.
 
-🔗 **Portfólio completo:** [devblox](https://portfolio-one-ashen-svqu6jwylz.vercel.app)
+No ar agora:
 
-## 🚀 Projetos no ar
+- [Solvia](https://solvia-coral.vercel.app) — energia solar, com simulador de economia
+- [Luxure](https://luxure-live.vercel.app) — estética automotiva, orçamento online
+- [Pata & Pelo](https://site-petshop-khaki.vercel.app) — pet shop, agendamento de banho e tosa
 
-| Projeto | Nicho | Site |
-|---|---|---|
-| ☀️ **Solvia** | Energia solar | [solvia-coral.vercel.app](https://solvia-coral.vercel.app) |
-| 🚗 **Luxure** | Estética automotiva | [luxure-live.vercel.app](https://luxure-live.vercel.app) |
-| 🐾 **Pata & Pelo** | Pet shop | [site-petshop-khaki.vercel.app](https://site-petshop-khaki.vercel.app) |
+Stack do dia a dia: React, Vite, TypeScript, Tailwind. Tudo entregue na Vercel.
 
-## 🛠️ Stack
-
-React · Vite · TypeScript · Tailwind CSS · HTML/CSS/JS · Vercel · SEO local · Integração com WhatsApp
-
-## 📫 Vamos conversar
-
-Me chame pelo portfólio → **[devblox — portfólio](https://portfolio-one-ashen-svqu6jwylz.vercel.app)**
+Portfólio com o resto e formas de contato: [devblox](https://portfolio-one-ashen-svqu6jwylz.vercel.app)
